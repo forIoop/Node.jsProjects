@@ -1,4 +1,14 @@
-//reauires a file reader and chalk arg color 
+/**
+* Name: Jaden Padua
+*
+* File: database.js
+*
+* Description: database.js app that has the implementation and functionality
+* That was applied
+*
+* mail to: paduajaden@gmail.com
+*/
+//requires a file reader and chalk arg color 
 const fs = require('fs')
 const chalk = require('chalk')
 
